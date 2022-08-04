@@ -3,6 +3,7 @@
 - 📕 Atualmente só estou praticando programação
 - 🌱 Estudando JavaScript...
 - 🎵 Adoro qualquer coisa que envolva música
+- 💻 Windows 10 - i3 7020U 8GB RAM
 
 <div>
   <a href="https://github.com/sueldoaraujo">
